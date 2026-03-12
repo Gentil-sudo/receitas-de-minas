@@ -1,12 +1,12 @@
 * {
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;
 }
 
 
 .header {
-    background-color: rgb(224, 180, 98);
+    background-color: rgb(234, 184, 91);
     padding: 10px;
 }
 
@@ -24,5 +24,14 @@
 }
 
 .pao-title {
+    padding: 10px;
+}
+
+.make {
+    padding: 20px;
+}
+
+.comment {
+    border: 1px dashed #ccc;
     padding: 10px;
 }
