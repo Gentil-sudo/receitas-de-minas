@@ -6,13 +6,23 @@
 
 
 .header {
+    background-color: rgb(224, 180, 98);
     padding: 10px;
 }
 
+.img-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 13px;
+    background-color: rgb(245, 197, 85);
+}
+
 .img-pao{
-    width: 450px;
+    width: 650px;
+    border-radius: 20px;
 }
 
 .pao-title {
-    
+    padding: 10px;
 }
